@@ -1,2 +1,2 @@
-[GitHub]https://github.com/dhruva169
-[GitHub]https://github.com/dhruvgupta1999
+[Dhruva Mahajan](https://github.com/dhruva169)
+[Dhruv Gupta](https://github.com/dhruvgupta1999)
