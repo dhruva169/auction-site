@@ -1,2 +1,3 @@
--[Dhruva Mahajan](https://github.com/dhruva169)
--[Dhruv Gupta](https://github.com/dhruvgupta1999)
+# Contributors
+   -[Dhruva Mahajan](https://github.com/dhruva169)
+   -[Dhruv Gupta](https://github.com/dhruvgupta1999)
